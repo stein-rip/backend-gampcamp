@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "gamp-camp-online",
+    "build": "gamp-camp-online"
+  },
+  "targets": {},
+  "etags": {}
+}
